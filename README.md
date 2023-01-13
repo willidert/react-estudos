@@ -14,7 +14,7 @@ npm create vite@latest
 siga as instruções e ele vai gerar um projeto react (ou outro que vc desejar) novinho.
 
 ```
-cd <project_name && npm install>
+cd <project_name> && npm install
 
 npm dev
 ```
@@ -24,3 +24,7 @@ npm dev
 - na branch main tem o projeto base
 - cada branch sai da main e vem com algo novo q eu aprendi e precisei praticar
 - como eu to iniciando é esperado que as primeiras sejam básicas
+
+## Conteúdo
+
+[Context](https://github.com/willidert/react-estudos/tree/001-context)
